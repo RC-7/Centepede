@@ -14,4 +14,4 @@ and DDT Bombs. If you get a high score, you can enter your name and it will be d
 done by destroying all centipedes while losing occurs when you lose all three lives.
 
 <h6> Collborators: </h6> 
-Developed with [Jason Parry](https://github.com/JasP19)
+<span>Developed with<a href = "https://github.com/JasP19">Jason Parry</span>
