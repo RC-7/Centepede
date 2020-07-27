@@ -12,3 +12,6 @@ at one time. Shooting a DDT Bomb destroys all enemies and objects within its bla
 decrease in the length of the centipede should you lose a life. You can increase your score by shooting the centipede, mushrooms
 and DDT Bombs. If you get a high score, you can enter your name and it will be displayed after the game. Winning is
 done by destroying all centipedes while losing occurs when you lose all three lives.
+
+<h6> Collborators: </h6> 
+Developed with [Jason Parry](https://github.com/JasP19)
